@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'TTHoves', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'TTHoves';
+  src: url('../fonts/TTHoves-Light.eot');
+  src: url('../fonts/TTHoves-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/TTHoves-Light.woff2') format('woff2'),
+       url('../fonts/TTHoves-Light.woff') format('woff'),
+       url('../fonts/TTHoves-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTHoves';
+  src: url('../fonts/TTHoves-Regular.eot');
+  src: url('../fonts/TTHoves-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/TTHoves-Regular.woff2') format('woff2'),
+       url('../fonts/TTHoves-Regular.woff') format('woff'),
+       url('../fonts/TTHoves-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTHoves';
+  src: url('../fonts/TTHoves-Medium.eot');
+  src: url('../fonts/TTHoves-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/TTHoves-Medium.woff2') format('woff2'),
+       url('../fonts/TTHoves-Medium.woff') format('woff'),
+       url('../fonts/TTHoves-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTHoves';
+  src: url('../fonts/TTHoves-DemiBold.eot');
+  src: url('../fonts/TTHoves-DemiBold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/TTHoves-DemiBold.woff2') format('woff2'),
+       url('../fonts/TTHoves-DemiBold.woff') format('woff'),
+       url('../fonts/TTHoves-DemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTHoves';
+  src: url('../fonts/TTHoves-Bold.eot');
+  src: url('../fonts/TTHoves-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/TTHoves-Bold.woff2') format('woff2'),
+       url('../fonts/TTHoves-Bold.woff') format('woff'),
+       url('../fonts/TTHoves-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
